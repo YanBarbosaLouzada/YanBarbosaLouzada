@@ -12,7 +12,7 @@ Ferramentas:
 Visual Studio Code  GitHub  microsoft-office 
 
 Outras tecnologias:
-Git  Php Agula  MySQL   
+Git  Php Angula  MySQL   
 
 Estudando no momento:
 Java 
