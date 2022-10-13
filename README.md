@@ -1,19 +1,18 @@
 ### Olá, me chamo Yan Barbosa Louzada! 
 
 
+Yan Barbosa Louzada github stats 
+Contribution
 
+ 
+Principais tecnologias:
+HTML  CSS  JavaScript  Java  Python
 
-<!--
-**YanBarbosaLouzada/YanBarbosaLouzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ferramentas:
+Visual Studio Code  GitHub  microsoft-office 
 
-Here are some ideas to get you started:
+Outras tecnologias:
+Git  Php Agula  MySQL   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudando no momento:
+Java 
