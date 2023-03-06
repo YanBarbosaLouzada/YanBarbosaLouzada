@@ -1,6 +1,6 @@
 <h2 align="center">Oi👋! Meu nome é Yan, Seja bem-vindo ao meu git. </h2>
 
-<p align="center">Tenho 19 anos, atualmente matriculado no curso de Ciência da Computação, pela instituição Anhanguera de Taubaté.<br><br>
+<p align="center">Tenho 20 anos, atualmente matriculado no curso de Ciência da Computação, pela instituição Anhanguera de Taubaté.<br><br>
 
 
 
