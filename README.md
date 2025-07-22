@@ -3,9 +3,12 @@
 
 <h1 align="center">Hi 👋, I'm Yan. <br/><br/> A fullstack developer and instructor </h1>
 
+<h3 align="center">My portifolio:</h3>
+<p align="center">
+<a href="https://neon-code-yan.lovable.app" target="blank">
+  <img align="center" src="https://icons.iconarchive.com/icons/graphicloads/seo-services/256/services-portfolio-icon.png" alt="jose-almir" height="50" width="40" />
+</a>
 
-
-  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yan-barbosa-72a544250" target="blank">
