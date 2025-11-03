@@ -1,6 +1,3 @@
-<div align="center"><img height="200" src="https://avatars.githubusercontent.com/u/113553710?v=4" /></div>
-
-
 <h1 align="center">Hi 👋, I'm Yan. <br/><br/> A fullstack developer and instructor </h1>
 
 <h3 align="center">My portifolio:</h3>
